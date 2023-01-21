@@ -32,7 +32,7 @@ Pela análise do gráfico obtido verifica-se que ocorre um amortecimento gradual
 
 - <strong>Octave</strong>
 - <strong>MacOS</strong>
-- <strong>CSS3</strong>
+
 
 Para instalar Octave: https://wiki.octave.org/Octave_for_macOS
 💬 Fale comigo
