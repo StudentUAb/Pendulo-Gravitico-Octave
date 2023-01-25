@@ -24,7 +24,7 @@ Pela análise do gráfico obtido verifica-se que ocorre um amortecimento gradual
  
 
 
-<img src="graficooctave.png" >
+<img src="graficooct.png" >
 
 
 🔧 Tecnologias utilizadas:
