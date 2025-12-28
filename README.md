@@ -20,8 +20,10 @@ O programa não usa nenhuma biblioteca específica para plotar os resultados, ma
 
 O pêndulo gravítico tem um movimento harmónico simples quando todas as forças resistentes não, são consideradas.
 Quando as forças resistentes, como a resistência do ar, são apreciáveis então verifica-se uma diminuição exponencial da amplitude e da velocidade angular ao longo do tempo.
-Pela análise do gráfico obtido verifica-se que ocorre um amortecimento gradual da amplitude e da velocidade angular devido à resistência do ar. 
- 
+
+Agradecimentos
+
+Este trabalho contou com a colaboração do José Manuel, que contribuiu para a correção do código e para a compreensão de vários conceitos e técnicas em Octave fundamentais para o desenvolvimento deste programa.
 
 
 <img src="graficooct.png" >
