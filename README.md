@@ -28,6 +28,7 @@ Este trabalho contou com a colaboração do <strong>José Manuel</strong>, que c
 
 <img src="graficooct.png" >
 
+https://ivo.com.pt/pendulo/
 
 🔧 Tecnologias utilizadas:
 ------------------
