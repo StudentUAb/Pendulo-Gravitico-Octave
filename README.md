@@ -23,7 +23,7 @@ Quando as forças resistentes, como a resistência do ar, são apreciáveis ent�
 
 Agradecimentos
 
-Este trabalho contou com a colaboração do <strong>José Manuel</strong>, que contribuiu para a correção do código e para a compreensão de vários conceitos e técnicas em Octave fundamentais para o desenvolvimento deste programa.
+Este trabalho contou com a colaboração do <strong>José Manuel - https://github.com/905525 </strong>, que contribuiu para a correção do código e para a compreensão de vários conceitos e técnicas em Octave fundamentais para o desenvolvimento deste programa.
 
 
 <img src="graficooct.png" >
